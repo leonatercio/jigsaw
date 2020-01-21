@@ -1,3 +1,17 @@
+## v1.1.32 (2020-1-21)
+
+### 新特性 / New Features
+- 无
+
+### 破坏性修改 / Breaking Changes
+- 无
+
+###  优化 / Modified
+- [优化] Tab、collapse、box的性能优化
+
+### 修复 / Fixes
+- 无
+
 ## v1.1.31 (2020-1-7)
 
 ### 新特性 / New Features
